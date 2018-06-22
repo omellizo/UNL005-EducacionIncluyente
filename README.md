@@ -2,7 +2,7 @@
 busca proyectar los cursos disponibles en la localidad de chapinero en una app
 
 ## Nombre del proyecto
-**Chapiaula**
+**Educapp**
 ## INTEGRANTES
 1. Edna Margarita Rodriguez
 2. Serghio Gomez
