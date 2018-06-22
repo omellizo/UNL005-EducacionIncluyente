@@ -14,7 +14,7 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 3. Diseño gráfico Front-end
 
 # Descripción del proyecto:
-La misión es mostrar por medio de un aplicativo móvil como ofrecer al publico y a la comunidad estudiantil de la localidad de Chapinero una variedad de cursos que genere un crecimiento formativo para personas que tengan acceso a una educación limitada.
+El proposito del aplicativo móvil es la visualiazión de la oferta educativa disponible para el publico y la comunidad estudiantil, inicialmente en la localidad de Chapinero, en donde se podra encontrar una variedad de cursos que genere un crecimiento formativo para personas que tengan acceso a una educación limitada.
 
 # Funciones básicas:
 - El usuario debe generar un login
