@@ -1,5 +1,5 @@
 # UNL005-Educacion Incluyente
-busca proyectar los cursos disponibles en la localidad de chapinero en una app
+Busca proyectar los cursos disponibles en la localidad de chapinero en una app
 
 ## Nombre del proyecto
 **Educapp**
